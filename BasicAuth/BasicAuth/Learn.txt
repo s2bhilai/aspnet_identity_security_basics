@@ -1,0 +1,10 @@
+﻿
+
+Some Auth Functions
+
+1) IAuthorizationService - Strategically authorize a block of code in controller/ Views
+2) Global Authorization Filters
+3) Operation Authorization Requirement - Authorizing based on different kinds of operation
+4) IClaimsTransformation - It gets called multiple times i.e every time the user is authenticated.  
+			Extract the claims and add additional claims. This will be on every request.
+5) Authorization Policy Provider

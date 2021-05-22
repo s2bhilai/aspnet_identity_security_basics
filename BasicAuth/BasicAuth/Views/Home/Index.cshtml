@@ -1,0 +1,21 @@
+﻿<h1>Home Page</h1>
+
+
+@*Simple Access quick checks*@
+@if(User.Identity.IsAuthenticated)
+{
+    <h1>User is Authenticated</h1>
+}
+else
+{
+    <h1>User is NOT Authenticated</h1>
+}
+
+@*Big Guns reusable functions*@
+@using Microsoft.AspNetCore.Authorization
+@inject IAuthorizationService authorizationService
+
+@if((await authorizationService.AuthorizeAsync(User, "Claim.DoB")).Succeeded)
+{
+    <h1>user has DOB Claim</h1>
+}

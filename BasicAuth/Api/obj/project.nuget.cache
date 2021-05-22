@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O9hxXMd7360iKjzuMkaqDeQJaj8AoKLjQD1P2kg/ZZMZK7J1Y0iUHvno8d2hGqQ24ezVNH2H+nHGgWdR8tbhDQ==",
+  "success": true,
+  "projectFilePath": "D:\\Tech\\Asp.Net Core Security\\Raw_Coding_Series\\BasicAuth\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\subs\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
