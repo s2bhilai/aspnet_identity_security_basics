@@ -1,0 +1,18 @@
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.deps.json
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.pdb
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfoInputs.cache
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfo.cs
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csproj.CoreCompileInputs.cache
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.pdb
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csprojAssemblyReference.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.deps.json
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.pdb
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfoInputs.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfo.cs
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csproj.CoreCompileInputs.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.pdb
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csprojAssemblyReference.cache

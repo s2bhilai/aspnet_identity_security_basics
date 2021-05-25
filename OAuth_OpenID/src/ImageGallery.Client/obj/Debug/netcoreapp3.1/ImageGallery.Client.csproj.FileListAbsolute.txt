@@ -1,0 +1,248 @@
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Client.exe
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Client.deps.json
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Client.runtimeconfig.json
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Client.runtimeconfig.dev.json
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Client.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Client.pdb
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Client.Views.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Client.Views.pdb
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\IdentityModel.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Model.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Model.pdb
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.csprojAssemblyReference.cache
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.AssemblyInfoInputs.cache
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.AssemblyInfo.cs
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.csproj.CoreCompileInputs.cache
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.MvcApplicationPartsAssemblyInfo.cache
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.RazorAssemblyInfo.cache
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.RazorAssemblyInfo.cs
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.TagHelpers.input.cache
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.TagHelpers.output.cache
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.RazorCoreGenerate.cache
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Authorization\AccessDenied.cshtml.g.cs
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\AddImage.cshtml.g.cs
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\EditImage.cshtml.g.cs
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Index.cshtml.g.cs
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\OrderFrame.cshtml.g.cs
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.RazorTargetAssemblyInfo.cache
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.RazorTargetAssemblyInfo.cs
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.Views.pdb
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.csproj.CopyComplete
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\staticwebassets\ImageGallery.Client.StaticWebAssets.Manifest.cache
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\staticwebassets\ImageGallery.Client.StaticWebAssets.xml
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.pdb
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.genruntimeconfig.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Client.exe
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Client.deps.json
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Client.runtimeconfig.json
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Client.runtimeconfig.dev.json
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Client.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Client.pdb
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Client.Views.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Client.Views.pdb
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\IdentityModel.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Model.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\bin\Debug\netcoreapp3.1\ImageGallery.Model.pdb
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.csprojAssemblyReference.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.AssemblyInfoInputs.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.AssemblyInfo.cs
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.csproj.CoreCompileInputs.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.MvcApplicationPartsAssemblyInfo.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.RazorAssemblyInfo.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.RazorAssemblyInfo.cs
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.TagHelpers.input.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.TagHelpers.output.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.RazorCoreGenerate.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Authorization\AccessDenied.cshtml.g.cs
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\AddImage.cshtml.g.cs
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\EditImage.cshtml.g.cs
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\Index.cshtml.g.cs
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Gallery\OrderFrame.cshtml.g.cs
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.RazorTargetAssemblyInfo.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.RazorTargetAssemblyInfo.cs
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.Views.pdb
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.csproj.CopyComplete
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\staticwebassets\ImageGallery.Client.StaticWebAssets.Manifest.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\staticwebassets\ImageGallery.Client.StaticWebAssets.xml
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.pdb
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\ImageGallery.Client.genruntimeconfig.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.Client\obj\Debug\netcoreapp3.1\scopedcss\bundle\ImageGallery.Client.styles.css

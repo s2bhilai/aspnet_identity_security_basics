@@ -1,0 +1,110 @@
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\ImageGallery.API.exe
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\ImageGallery.API.deps.json
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\ImageGallery.API.runtimeconfig.json
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\ImageGallery.API.runtimeconfig.dev.json
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\ImageGallery.API.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\ImageGallery.API.pdb
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\IdentityModel.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\IdentityModel.AspNetCore.OAuth2Introspection.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\IdentityServer4.AccessTokenValidation.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\ImageGallery.Model.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\ImageGallery.Model.pdb
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\ImageGallery.API.csprojAssemblyReference.cache
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\ImageGallery.API.AssemblyInfoInputs.cache
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\ImageGallery.API.AssemblyInfo.cs
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\ImageGallery.API.csproj.CoreCompileInputs.cache
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\ImageGallery.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\ImageGallery.API.RazorTargetAssemblyInfo.cache
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\ImageGallery.API.csproj.CopyComplete
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\staticwebassets\ImageGallery.API.StaticWebAssets.Manifest.cache
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\staticwebassets\ImageGallery.API.StaticWebAssets.xml
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\ImageGallery.API.dll
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\ImageGallery.API.pdb
+D:\Subin\Tech\Asp.NetCore3_Security\DealingWithCreds\dealing-credentials-when-securing-aspdotnet-core-3-application\03\demos\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\ImageGallery.API.genruntimeconfig.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\ImageGallery.API.exe
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\ImageGallery.API.deps.json
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\ImageGallery.API.runtimeconfig.json
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\ImageGallery.API.runtimeconfig.dev.json
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\ImageGallery.API.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\ImageGallery.API.pdb
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\IdentityModel.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\IdentityModel.AspNetCore.OAuth2Introspection.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\IdentityServer4.AccessTokenValidation.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\ImageGallery.Model.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\bin\Debug\netcoreapp3.1\ImageGallery.Model.pdb
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\ImageGallery.API.csprojAssemblyReference.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\ImageGallery.API.AssemblyInfoInputs.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\ImageGallery.API.AssemblyInfo.cs
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\ImageGallery.API.csproj.CoreCompileInputs.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\ImageGallery.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\ImageGallery.API.RazorTargetAssemblyInfo.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\ImageGallery.API.csproj.CopyComplete
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\staticwebassets\ImageGallery.API.StaticWebAssets.Manifest.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\staticwebassets\ImageGallery.API.StaticWebAssets.xml
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\ImageGallery.API.dll
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\ImageGallery.API.pdb
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\ImageGallery.API.genruntimeconfig.cache
+D:\Tech\Asp.Net Core Security\Kevin_Dockx_identityServer4\end\end\src\ImageGallery.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\ImageGallery.API.styles.css
